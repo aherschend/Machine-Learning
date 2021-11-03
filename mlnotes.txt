@@ -1,0 +1,11 @@
+supervised machine learning - means we are labeling our data 
+
+**DIGITS
+- digits is our data set and digits are referred to as a BUNCH OBJECT
+
+digits.data
+digits.target
+digits.images
+
+taking non-numerical data, like an image and turning it into numerical data
+in order to recognize specific things like items
